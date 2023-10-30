@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **C**
 
-- 👯 I’m looking to collaborate on **Dante’s Divine Comedy**, a faithful rendition of the book, as a video game that is *not* fun!
+- 👯 I’m looking to collaborate on **Dante’s Divine Comedy**: a faithful rendition of the book, as a video game that is *not* fun!
 
 - 📫 You can reach me here: **mwallage@student.42berlin.de**
 
-- Aside from coding, I write creatively and I used to be an academic philosopher. On my <a href="https://www.martijnwallage.nl">personal website</a> you can find some of my writings.
+- 📖 Aside from coding, I write creatively and I used to be an academic philosopher 🤔. On my <a href="https://www.martijnwallage.nl">personal website</a> you can find some of my writings.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
