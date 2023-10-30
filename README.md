@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martijn</h1>
-<h3 align="center">An aspiring software engineer @ 42 Berlin</h3>
+<h3 align="center">an aspiring software engineer @ 42 Berlin</h3>
 
 - 🔭 I’m currently working on **minishell** and **philosophers**
 
