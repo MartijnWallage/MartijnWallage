@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Martijn Wallage</h1>
+<h1 align="center">Hi 👋, I'm Martijn</h1>
 <h3 align="center">An aspiring software engineer @ 42 Berlin</h3>
 
-- 🔭 I’m currently working on **minishell**
+- 🔭 I’m currently working on **minishell** and **philosophers**
 
 - 🌱 I’m currently learning **C**
 
-- 👯 I’m looking to collaborate on **Dante’s Divine Comedy**
+- 👯 I’m looking to collaborate on **Dante’s Divine Comedy**, a faithful rendition of the book, as a video game that is *not* fun!
 
-- 📫 How to reach me **mwallage@student.42berlin.de**
+- 📫 You can reach me here: **mwallage@student.42berlin.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
