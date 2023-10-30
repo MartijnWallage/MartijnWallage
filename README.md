@@ -9,6 +9,8 @@
 
 - 📫 You can reach me here: **mwallage@student.42berlin.de**
 
+- Aside from coding, I write creatively and I used to be an academic philosopher. On my <a href="https://www.martijnwallage.nl">personal website</a> you can find some of my writings.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/martijnwallage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martijnwallage" height="30" width="40" /></a>
