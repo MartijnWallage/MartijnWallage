@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Martijn</h1>
-<h3 align="center">an aspiring software engineer @ 42 Berlin</h3>
+<h1 align="center">Hi, I'm Martijn</h1>
+<h3 align="center">a student @ 42 Berlin</h3>
 
 - 🔭 I’m currently working on **minishell** and **philosophers**
 
 - 🌱 I’m currently learning **C**
-
-- 👯 I’m looking to collaborate on **Dante’s Divine Comedy**: a faithful rendition of the book, as a video game that is *not* fun!
 
 - 📫 You can reach me here: **mwallage@student.42berlin.de**
 
