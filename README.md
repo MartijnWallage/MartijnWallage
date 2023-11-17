@@ -6,7 +6,7 @@ I'm a student at 42 Berlin, which is part of the world-wide 42 School network.
   
 - 🔭 I’m currently working on **minishell** and **philosophers**.
 
-- So far, I got 125% on each 42 project. I will be writing some comments on them here soon.
+- 🏆 So far, I got 125% on each 42 project. I will be writing some comments on them here soon.
 
 - 📫 You can reach me at **mwallage@student.42berlin.de**.
 
