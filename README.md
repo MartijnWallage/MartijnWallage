@@ -1,6 +1,6 @@
-<h1>Hi there, I'm Martijn</h1>
+<h2>Hi there, I'm Martijn</h2>
 
-- 🌱 I’m learning **C** at 42 Berlin.
+- 🌱 I’m learning **C** @ <a href="https://42berlin.de">42Berlin</a>.
   
 - 🔭 I’m currently working on **minishell** and **philosophers**.
 
