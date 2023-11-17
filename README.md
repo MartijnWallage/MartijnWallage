@@ -1,4 +1,4 @@
-<h2>Hi there</h2>
+<h2>Hi!</h2>
 
 I'm a software engeneering student at 42 Berlin.
 
