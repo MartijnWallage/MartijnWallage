@@ -26,12 +26,10 @@ I'm a student at 42 Berlin, which is part of the world-wide 42 School network.
 <div align="center">
 
 <a href="https://github.com/MartijnWallage/42_libft">![42 Badge](libftm.png)</a>
-<a href="https://github.com/MartijnWallage/42_get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
-<a href="https://github.com/MartijnWallage/42_ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
-<a href="https://github.com/MartijnWallage/42_FdF">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png)</a>
-<a href="https://github.com/MartijnWallage/42_pipex">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
-<a href="https://github.com/MartijnWallage/42_push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
-<a href="https://github.com/mcombeau/42_philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
-<a href="https://github.com/mcombeau/42_minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
+<a href="https://github.com/MartijnWallage/42_get_next_line">![42 Badge](get_next_linem.png)</a>
+<a href="https://github.com/MartijnWallage/42_ft_printf">![42 Badge](ft_printfm.png)</a>
+<a href="https://github.com/MartijnWallage/42_FdF">![42 Badge](fdfm.png)</a>
+<a href="https://github.com/MartijnWallage/42_pipex">![42 Badge](pipexm.png)</a>
+<a href="https://github.com/MartijnWallage/42_push_swap">![42 Badge](push_swapm.png)</a>
 
 </div>
