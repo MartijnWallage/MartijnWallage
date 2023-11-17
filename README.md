@@ -1,4 +1,6 @@
-<h2>Hi there, I'm Martijn</h2>
+<h2>Hi there
+
+This is the place where I keep my coding projects.
 
 - 🌱 I’m learning **C** @ <a href="https://42berlin.de">42Berlin</a>.
   
