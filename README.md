@@ -10,7 +10,7 @@ I'm a student at 42 Berlin, which is part of the world-wide 42 School network.
 
 - 📫 You can reach me at **mwallage@student.42berlin.de**.
 
-- 📖 Aside from coding, I write creatively and I used to be an academic philosopher 🤔. On my <a href="https://www.martijnwallage.nl">personal website</a> you can find some of my writings.
+- 📖 Aside from coding, I am a poet and former academic philosopher. On my <a href="https://www.martijnwallage.nl">personal website</a> you can find some of my writings.
 
 <h3>Connect with me:</h3>
 <p>
