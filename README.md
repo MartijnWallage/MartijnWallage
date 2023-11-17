@@ -1,4 +1,4 @@
-<h2>Hi there
+<h2>Hi there</h2>
 
 This is the place where I keep my coding projects.
 
