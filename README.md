@@ -1,6 +1,6 @@
 <h2>Hi!</h2>
 
-I'm a software engeneering student at 42 Berlin, which is part of the world-wide 42 School network.
+I'm a software engineering student at 42 Berlin, which is part of the world-wide 42 School network.
 
 - 🌱 I’m learning **C**, **C++**, **Bash**, and **Git** at 42 Berlin.
   
