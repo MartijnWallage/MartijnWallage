@@ -1,8 +1,8 @@
 <h2>Hi!</h2>
 
-I'm a student at 42 Berlin, which is part of the world-wide 42 School network.
+I'm Martijn Wallage, a student at <a href="https://42berlin.de">42 Berlin</a>.
 
-- 🌱 I’m learning **C**, **C++**, **Bash**, and **Git** at 42 Berlin.
+- 🌱 I’m learning **C**, **C++**, **Bash**, and **Git**.
   
 - 🔭 I’m currently working on **minishell** and **philosophers**.
 
