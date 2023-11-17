@@ -4,7 +4,7 @@ I'm Martijn Wallage, a student at <a href="https://42berlin.de">42 Berlin</a>.
 
 - I’m learning **C**, **C++**, **Bash**, and **Git**.
   
-- I’m currently working on **minishell** and **philosophers**.
+- I’m currently working on <a href="https://github.com/MartijnWallage/42_philosophers">philosophers</a> and <a href="https://github.com/MartijnWallage/42_minishell">minishell</a>.
 
 - So far, I got 125% on each 42 project. I will be writing some comments on them here soon.
 
