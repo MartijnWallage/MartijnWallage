@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Martijn</h1>
 <h3 align="center">a student @ 42 Berlin</h3>
 
-- 🔭 I’m currently working on **minishell** and **philosophers**
+- 🌱 I’m learning **C** at 42 Berlin.
+  
+- 🔭 I’m currently working on **minishell** and **philosophers**.
 
-- 🌱 I’m currently learning **C**
-
-- 📫 You can reach me here: **mwallage@student.42berlin.de**
+- 📫 You can reach me at **mwallage@student.42berlin.de**
 
 - 📖 Aside from coding, I write creatively and I used to be an academic philosopher 🤔. On my <a href="https://www.martijnwallage.nl">personal website</a> you can find some of my writings.
 
