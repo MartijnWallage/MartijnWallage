@@ -8,7 +8,7 @@ I'm Martijn Wallage, a student at <a href="https://42berlin.de">42 Berlin</a>.
 
 - So far, I got 125% on each 42 project. I will be writing some comments on them here soon.
 
-- You can reach me at **mwallage@student.42berlin.de**.
+- You can reach me at mwallage@student.42berlin.de.
 
 - Aside from coding, I am a poet and academic philosopher. On my <a href="https://www.martijnwallage.nl">personal website</a> you can find some of my writings.
 
