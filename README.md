@@ -1,12 +1,12 @@
 <h2>Hi there</h2>
 
-This is the place where I keep my coding projects.
+I'm a software engeneering student at 42 Berlin.
 
-- 🌱 I’m learning **C** @ <a href="https://42berlin.de">42Berlin</a>.
+- 🌱 I’m learning **C**, **Bash**, and **Git** @ <a href="https://42berlin.de">42Berlin</a>.
   
-- 🔭 I’m currently working on **minishell** and **philosophers**.
+- 🔭 I’m currently working on **minishell** and **philosophers**. So far, I got 125% on each 42 project. I will be writing some comments on them here soon.
 
-- 📫 You can reach me at **mwallage@student.42berlin.de**
+- 📫 You can reach me at **mwallage@student.42berlin.de**.
 
 - 📖 Aside from coding, I write creatively and I used to be an academic philosopher 🤔. On my <a href="https://www.martijnwallage.nl">personal website</a> you can find some of my writings.
 
