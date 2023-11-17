@@ -27,7 +27,7 @@ I'm a student at 42 Berlin, which is part of the world-wide 42 School network.
 
 <a href="https://github.com/MartijnWallage/42_libft">![42 Badge](libftm.png)</a>
 <a href="https://github.com/MartijnWallage/42_get_next_line">![42 Badge](get_next_linem.png)</a>
-<a href="https://github.com/MartijnWallage/42_ft_printf">![42 Badge](ft_printfm.png)</a>
+<a href="https://github.com/MartijnWallage/42_printf">![42 Badge](ft_printfm.png)</a>
 <a href="https://github.com/MartijnWallage/42_FdF">![42 Badge](fdfm.png)</a>
 <a href="https://github.com/MartijnWallage/42_pipex">![42 Badge](pipexm.png)</a>
 <a href="https://github.com/MartijnWallage/42_push_swap">![42 Badge](push_swapm.png)</a>
