@@ -1,8 +1,8 @@
 <h2>Hi!</h2>
 
-I'm a software engeneering student at 42 Berlin.
+I'm a software engeneering student at 42 Berlin, which is part of the world-wide 42 School network.
 
-- 🌱 I’m learning **C**, **Bash**, and **Git** @ <a href="https://42berlin.de">42Berlin</a>.
+- 🌱 I’m learning **C**, **C++**, **Bash**, and **Git** at 42 Berlin.
   
 - 🔭 I’m currently working on **minishell** and **philosophers**. So far, I got 125% on each 42 project. I will be writing some comments on them here soon.
 
