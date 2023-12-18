@@ -10,6 +10,8 @@ I'm Martijn Wallage, a student at <a href="https://42berlin.de">42 Berlin</a>.
 
 - You can reach me at mwallage@student.42berlin.de.
 
+- <a href="https://martijnwallage.github.io">Here</a> is my cv. 
+
 - Aside from coding, I am a poet and academic philosopher. On my <a href="https://www.martijnwallage.nl">personal website</a> you can find some of my writings.
 
 <h3>Connect with me:</h3>
