@@ -6,7 +6,7 @@ I'm Martijn Wallage, a student at <a href="https://42berlin.de">42 Berlin</a>.
   
 - I’m currently working on <a href="https://github.com/MartijnWallage/42_minishell">minishell</a>, a recreation of the Bash shell.
 
-- So far, I got 125% on each 42 project. I will be writing some comments on them here soon.
+- So far, I got 125% on each 42 project. I will be writing more comments on them here soon.
 
 - You can reach me at mwallage@student.42berlin.de.
 
