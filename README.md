@@ -12,7 +12,7 @@ I'm Martijn Wallage, a student at <a href="https://42berlin.de">42 Berlin</a>.
 
 - I made <a href="https://martijnwallage.github.io">this CV</a> in HTML and CSS.
 
-- Aside from coding, I am a poet and academic philosopher. On my <a href="https://www.martijnwallage.nl">personal website</a> you can find some of my writings.
+- Aside from coding, I am a writer and philosopher. On my <a href="https://www.martijnwallage.nl">personal website</a> you can find some of my writings.
 
 <h3>Connect with me:</h3>
 <p>
