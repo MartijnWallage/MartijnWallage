@@ -4,9 +4,7 @@ I'm Martijn Wallage, a student at <a href="https://42berlin.de">42 Berlin</a>.
 
 - I’m learning **C**, **C++**, **Bash**, and **Git**.
   
-- I’m currently working on <a href="https://github.com/MartijnWallage/42_minishell">minishell</a> (basically done), a recreation of the Bash shell.
-
-- So far, I got 125% on each 42 project. I am starting to write more comments on them here.
+- I’m currently working on the <a href="https://github.com/MartijnWallage/42_cpp">C++</a> modules of the 42 Core Curriculum. 
 
 - You can reach me at mwallage@student.42berlin.de.
 
@@ -36,5 +34,6 @@ I'm Martijn Wallage, a student at <a href="https://42berlin.de">42 Berlin</a>.
 <a href="https://github.com/MartijnWallage/42_pipex">![42 Badge](pipexm.png)</a>
 <a href="https://github.com/MartijnWallage/42_FdF">![42 Badge](fdfm.png)</a>
 <a href="https://github.com/MartijnWallage/42_philosophers">![42 Badge](philosophersm.png)</a>
+<a href="https://github.com/MartijnWallage/42_minishell">![42 Badge](minishell.png)</a>
 
 </div>
