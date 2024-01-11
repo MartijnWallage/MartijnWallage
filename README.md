@@ -34,6 +34,6 @@ I'm Martijn Wallage, a student at <a href="https://42berlin.de">42 Berlin</a>.
 <a href="https://github.com/MartijnWallage/42_pipex">![42 Badge](pipexm.png)</a>
 <a href="https://github.com/MartijnWallage/42_FdF">![42 Badge](fdfm.png)</a>
 <a href="https://github.com/MartijnWallage/42_philosophers">![42 Badge](philosophersm.png)</a>
-<a href="https://github.com/MartijnWallage/42_minishell">![42 Badge](minishell.png)</a>
+<a href="https://github.com/MartijnWallage/42_minishell">![42 Badge](minishellm.png)</a>
 
 </div>
