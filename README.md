@@ -4,7 +4,7 @@ I'm Martijn Wallage, a student at <a href="https://42berlin.de">42 Berlin</a>.
 
 - I’m learning **C**, **C++**, **Bash**, and **Git**.
   
-- I’m currently working on the <a href="https://github.com/MartijnWallage/42_cpp">C++</a> modules of the 42 Core Curriculum. 
+- I’m currently working on <a href="https://github.com/MartijnWallage/42_MiniRT">miniRT</a>, a ray tracer in C and openGL.
 
 - You can reach me at mwallage@student.42berlin.de.
 
