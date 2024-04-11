@@ -27,15 +27,16 @@ I'm Martijn Wallage, a student at <a href="https://42berlin.de">42 Berlin</a>.
 
 <div align="center">
 
-![42 Badge](borntoberootm.png)
-<a href="https://github.com/MartijnWallage/42_libft">![42 Badge](libftm.png)</a>
-<a href="https://github.com/MartijnWallage/42_get_next_line">![42 Badge](get_next_linem.png)</a>
-<a href="https://github.com/MartijnWallage/42_printf">![42 Badge](ft_printfm.png)</a>
-<a href="https://github.com/MartijnWallage/42_push_swap">![42 Badge](push_swapm.png)</a>
-<a href="https://github.com/MartijnWallage/42_pipex">![42 Badge](pipexm.png)</a>
-<a href="https://github.com/MartijnWallage/42_FdF">![42 Badge](fdfm.png)</a>
-<a href="https://github.com/MartijnWallage/42_philosophers">![42 Badge](philosophersm.png)</a>
-<a href="https://github.com/MartijnWallage/42_minishell">![42 Badge](minishellm.png)</a>
-<a href="https://github.com/MartijnWallage/42_MiniRT">![42 Badge](minirtm.png)</a>
+<a href="https://github.com/MartijnWallage/42_libft">![42 Badge libft](libftm.png)</a>
+<a href="https://github.com/MartijnWallage/42_get_next_line">![42 Badge getNextLine](get_next_linem.png)</a>
+<a href="https://github.com/MartijnWallage/42_printf">![42 Badge printf](ft_printfm.png)</a>
+![42 Badge born2beroot](born2berootm.png)
+<a href="https://github.com/MartijnWallage/42_push_swap">![42 Badge push_swap](push_swapm.png)</a>
+<a href="https://github.com/MartijnWallage/42_pipex">![42 Badge pipex](pipexm.png)</a>
+<a href="https://github.com/MartijnWallage/42_FdF">![42 Badge FdF](fdfm.png)</a>
+<a href="https://github.com/MartijnWallage/42_philosophers">![42 Badge Philosophers](philosophersm.png)</a>
+<a href="https://github.com/MartijnWallage/42_minishell">![42 Badge minishell](minishellm.png)</a>
+![42 Badge Netpractice](netpracticem.png)
+<a href="https://github.com/MartijnWallage/42_MiniRT">![42 Badge miniRT](minirtm.png)</a>
 
 </div>
