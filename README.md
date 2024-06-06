@@ -1,8 +1,8 @@
 <h2>Hi!</h2>
 
-I'm Martijn Wallage, a student at <a href="https://42berlin.de">42 Berlin</a>.
+I'm Martijn Wallage, a software developer currently studying at <a href="https://42berlin.de">42 Berlin</a>.
 
-- I’m developing my skills in **C**, **C++**, **Python**, **Bash**, and **Git**.
+- I’m developing my skills in **C**, **C++**, **Python**, **JavaScript**, **Bash**, and **Git**.
   
 - I’m currently working on <a href="https://github.com/MartijnWallage/42_ft_irc">ft_irc</a>, an IRC server written in C++.
 
