@@ -17,6 +17,9 @@ I'm Martijn Wallage, a software developer currently studying at <a href="https:/
 <a href="https://linkedin.com/in/martijnwallage" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="martijnwallage" /></a>
 </p>
 
+<h3>Tools</h3>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 <h3>42 Projects</h3>
 
 <div align="center">
