@@ -33,6 +33,6 @@ I'm Martijn Wallage, a software developer currently studying at <a href="https:/
 ![42 Badge Netpractice](netpracticem.png)
 <a href="https://github.com/MartijnWallage/42_MiniRT">![42 Badge miniRT](minirtm.png)</a>
 <a href="https://github.com/MartijnWallage/42_cpp.git">![42 Badge cpp](cppm.png)</a>
-<a href="https://github.com/MartijnWallage/42_irc.git">![42 Badge irc](ircm.png)</a>
+<a href="https://github.com/MartijnWallage/42_irc.git">![42 Badge irc](ft_ircm.png)</a>
 
 </div>
