@@ -8,7 +8,7 @@ I'm Martijn Wallage, a software developer currently studying at <a href="https:/
 
 - You can reach me at mwallage@student.42berlin.de.
 
-- I made this cv - <a href="https://martijnwallage.github.io">martijnwallage.github.io</a> - in HTML and CSS.
+- I made this cv - <a href="https://martijnwallage.github.io">https://martijnwallage.github.io</a> - in HTML and CSS.
 
 - Aside from coding, I am a writer and philosopher. On my <a href="https://www.martijnwallage.nl">personal website</a> you can find some of my writings.
 
