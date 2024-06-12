@@ -4,7 +4,7 @@ I'm Martijn Wallage, a software developer currently studying at <a href="https:/
 
 - I’m developing my skills in **C**, **C++**, **Python**, **JavaScript**, **Bash**, **Git**, and **Docker**.
   
-- I’m currently working on <a href="https://github.com/MartijnWallage/42_ft_irc">ft_irc</a>, an IRC server written in C++.
+- I’m currently working on ft_transcendence, the final project of the 42 Core Curriculum.
 
 - You can reach me at mwallage@student.42berlin.de.
 
@@ -33,5 +33,6 @@ I'm Martijn Wallage, a software developer currently studying at <a href="https:/
 ![42 Badge Netpractice](netpracticem.png)
 <a href="https://github.com/MartijnWallage/42_MiniRT">![42 Badge miniRT](minirtm.png)</a>
 <a href="https://github.com/MartijnWallage/42_cpp.git">![42 Badge cpp](cppm.png)</a>
+<a href="https://github.com/MartijnWallage/42_irc.git">![42 Badge irc](ircm.png)</a>
 
 </div>
