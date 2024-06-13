@@ -2,7 +2,7 @@
 
 I'm Martijn Wallage, a software developer currently studying at <a href="https://42berlin.de">42 Berlin</a>.
 
-- I’m developing my skills in **C**, **C++**, **Python**, **JavaScript**, **Bash**, **Git**, and **Docker**.
+- I’m developing my skills in **C**, **C++**, **Python**, and **JavaScript**.
   
 - I’m currently working on ft_transcendence, the final project of the 42 Core Curriculum.
 
