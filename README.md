@@ -12,7 +12,7 @@ I'm Martijn Wallage, a software developer currently studying at <a href="https:/
 
 - Aside from coding, I am a writer and philosopher. On my <a href="https://www.martijnwallage.nl">personal website</a> you can find some of my writings.
 
-<h3>Connect with me:</h3>
+<h3>Connect with me</h3>
 <p>
 <a href="https://linkedin.com/in/martijnwallage" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="martijnwallage" /></a>
 </p>
