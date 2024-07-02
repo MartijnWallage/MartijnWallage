@@ -33,8 +33,8 @@ I'm Martijn Wallage, a software developer currently studying at <a href="https:/
 <a href="https://github.com/MartijnWallage/42_libft">![42 Badge libft](badges/libftm.png)</a>
 <a href="https://github.com/MartijnWallage/42_get_next_line">![42 Badge getNextLine](badges/get_next_linem.png)</a>
 <a href="https://github.com/MartijnWallage/42_printf">![42 Badge printf](badges/ft_printfm.png)</a>
-![42 Badge born2beroot](born2berootm.png)
-<a href="https://github.com/MartijnWallage/42_push_swap">![42 Badge push_swap](badges.push_swapm.png)</a>
+![42 Badge born2beroot](badges/born2berootm.png)
+<a href="https://github.com/MartijnWallage/42_push_swap">![42 Badge push_swap](badges/push_swapm.png)</a>
 <a href="https://github.com/MartijnWallage/42_pipex">![42 Badge pipex](badges/pipexm.png)</a>
 <a href="https://github.com/MartijnWallage/42_FdF">![42 Badge FdF](badges/fdfm.png)</a>
 <a href="https://github.com/MartijnWallage/42_philosophers">![42 Badge Philosophers](badges/philosophersm.png)</a>
