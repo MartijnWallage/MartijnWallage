@@ -30,7 +30,7 @@ I'm Martijn Wallage, a software developer currently studying at <a href="https:/
 
 <div align="center">
 
-<a href="https://github.com/MartijnWallage/42_libft">![42 Badge libft](libftm.png)</a>
+<a href="https://github.com/MartijnWallage/42_libft">![42 Badge libft](https://github.com/MartijnWallage/42-project-badges/badges/libftm.png)</a>
 <a href="https://github.com/MartijnWallage/42_get_next_line">![42 Badge getNextLine](get_next_linem.png)</a>
 <a href="https://github.com/MartijnWallage/42_printf">![42 Badge printf](ft_printfm.png)</a>
 ![42 Badge born2beroot](born2berootm.png)
@@ -43,5 +43,6 @@ I'm Martijn Wallage, a software developer currently studying at <a href="https:/
 <a href="https://github.com/MartijnWallage/42_MiniRT">![42 Badge miniRT](minirtm.png)</a>
 <a href="https://github.com/MartijnWallage/42_cpp.git">![42 Badge cpp](cppm.png)</a>
 <a href="https://github.com/MartijnWallage/42_irc.git">![42 Badge irc](ft_ircm.png)</a>
+<a href="https://github.com/MartijnWallage/42_inception.git">![42 Badge inception](https://github.com/MartijnWallage/42-project-badges/badges/inceptionm.png)</a>)
 
 </div>
