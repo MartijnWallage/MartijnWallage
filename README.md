@@ -43,6 +43,6 @@ I'm Martijn Wallage, a software developer currently studying at <a href="https:/
 <a href="https://github.com/MartijnWallage/42_MiniRT">![42 Badge miniRT](badges/minirtm.png)</a>
 <a href="https://github.com/MartijnWallage/42_cpp.git">![42 Badge cpp](badges/cppm.png)</a>
 <a href="https://github.com/MartijnWallage/42_irc.git">![42 Badge irc](badges/ft_ircm.png)</a>
-<a href="https://github.com/MartijnWallage/42_inception.git">![42 Badge inception](badges/inceptionm.png)</a>)
+<a href="https://github.com/MartijnWallage/42_inception.git">![42 Badge inception](badges/inceptionm.png)</a>
 
 </div>
