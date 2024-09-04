@@ -1,10 +1,8 @@
 <h2>Hi!</h2>
 
-I'm Martijn Wallage, a software developer currently studying at <a href="https://42berlin.de">42 Berlin</a>.
+I'm Martijn Wallage, a software developer and instructional designer. I graduated from <a href="https://42berlin.de">42 Berlin</a>.
 
-- I’m developing my skills in **C**, **C++**, **Python**, and **JavaScript**.
-  
-- I’m currently working on ft_transcendence, the final project of the 42 Core Curriculum.
+- I’m developing my skills in **C**, **C++**, and **Python**.
 
 - You can reach me at mwallage@student.42berlin.de.
 
@@ -44,5 +42,6 @@ I'm Martijn Wallage, a software developer currently studying at <a href="https:/
 <a href="https://github.com/MartijnWallage/42_cpp.git">![42 Badge cpp](badges/cppm.png)</a>
 <a href="https://github.com/MartijnWallage/42_irc.git">![42 Badge irc](badges/ft_ircm.png)</a>
 <a href="https://github.com/MartijnWallage/42_inception.git">![42 Badge inception](badges/inceptionm.png)</a>
+<a href="https://github.com/MartijnWallage/42_transcendence.git">![42 Badge inception](badges/ft_transcendencem.png)</a>
 
 </div>
