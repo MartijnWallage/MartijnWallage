@@ -1,9 +1,10 @@
 <h2>Hi!</h2>
 
-I'm Martijn Wallage, a software developer and instructional designer. 
-I completed the Core Curriculum of <a href="https://42berlin.de">42 Berlin</a>.
+I'm Martijn Wallage, a software developer, writer, and educator. 
 
-- I’m developing my skills in **C**, **C++**, and **Python**.
+- I completed the Core Curriculum of <a href="https://42berlin.de">42 Berlin</a>.
+
+- I design interactive courses in Software Engineering.
 
 - You can reach me at mwallage@student.42berlin.de.
 
