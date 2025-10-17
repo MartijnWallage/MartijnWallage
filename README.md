@@ -1,6 +1,6 @@
 <h2>Hi!</h2>
 
-I'm Martijn Wallage, a software developer, writer, and educator. 
+I'm Martijn Wallage, a software developer, philosopher, and educator. 
 
 - I completed the Core Curriculum of <a href="https://42berlin.de">42 Berlin</a>.
 
@@ -18,6 +18,8 @@ I'm Martijn Wallage, a software developer, writer, and educator.
 </p>
 
 <h3>Tech Stack</h3>
+
+- I am currently learning Haskell.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
