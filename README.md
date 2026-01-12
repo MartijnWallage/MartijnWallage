@@ -10,7 +10,7 @@ I'm Martijn Wallage, a software developer, philosopher, and educator.
 
 - I made this cv - <a href="https://martijnwallage.github.io">https://martijnwallage.github.io</a> - in HTML and CSS.
 
-- Aside from coding, I am a writer and philosopher. On my <a href="https://www.martijnwallage.nl">personal website</a> you can my published writings.
+- Aside from coding, I am a writer and philosopher. On my <a href="https://www.martijnwallage.nl">personal website</a> and on my <a href="https://martijnwallage.substack.com">Substack</a> you can read my writings.
 
 <h3>Connect with me</h3>
 <p>
