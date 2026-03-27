@@ -4,7 +4,7 @@ I'm Martijn Wallage, a software developer and writer/philosopher.
 
 - I completed the Core Curriculum of <a href="https://42berlin.de">42 Berlin</a>.
 
-- You can reach me at mwallage@student.42berlin.de.
+- I am an Advanced Student at 42 London. You can reach me at mwallage@student.42london.com.
 
 - I made this cv - <a href="https://martijnwallage.github.io">https://martijnwallage.github.io</a> - in HTML and CSS.
 
@@ -16,8 +16,6 @@ I'm Martijn Wallage, a software developer and writer/philosopher.
 </p>
 
 <h3>Tech Stack</h3>
-
-- I am currently learning Haskell.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
