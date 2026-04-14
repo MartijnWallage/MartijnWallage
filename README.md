@@ -6,6 +6,8 @@ I'm Martijn Wallage, a software developer and writer/philosopher.
 
 - I am an Advanced Student at 42 London. You can reach me at mwallage@student.42london.com.
 
+- I am working on an app for <a href="https://github.com/MartijnWallage/DanteMemorizer">memorizing Dante's Divine Comedy</a>.
+
 - I made this cv - <a href="https://martijnwallage.github.io">https://martijnwallage.github.io</a> - in HTML and CSS.
 
 - Aside from coding, I am a writer and philosopher. On my <a href="https://www.martijnwallage.nl">personal website</a> and on my <a href="https://martijnwallage.substack.com">Substack</a> you can read my literary prose and poems.
@@ -39,9 +41,9 @@ I'm Martijn Wallage, a software developer and writer/philosopher.
 <a href="https://github.com/MartijnWallage/42_minishell">![42 Badge minishell](badges/minishellm.png)</a>
 ![42 Badge Netpractice](badges/netpracticem.png)
 <a href="https://github.com/MartijnWallage/42_MiniRT">![42 Badge miniRT](badges/minirtm.png)</a>
-<a href="https://github.com/MartijnWallage/42_cpp.git">![42 Badge cpp](badges/cppm.png)</a>
-<a href="https://github.com/MartijnWallage/42_irc.git">![42 Badge irc](badges/ft_ircm.png)</a>
-<a href="https://github.com/MartijnWallage/42_inception.git">![42 Badge inception](badges/inceptionm.png)</a>
-<a href="https://github.com/MartijnWallage/ft_transcendence.git">![42 Badge inception](badges/ft_transcendencem.png)</a>
+<a href="https://github.com/MartijnWallage/42_cpp">![42 Badge cpp](badges/cppm.png)</a>
+<a href="https://github.com/MartijnWallage/42_irc">![42 Badge irc](badges/ft_ircm.png)</a>
+<a href="https://github.com/MartijnWallage/42_inception">![42 Badge inception](badges/inceptionm.png)</a>
+<a href="https://github.com/MartijnWallage/ft_transcendence">![42 Badge inception](badges/ft_transcendencem.png)</a>
 
 </div>
