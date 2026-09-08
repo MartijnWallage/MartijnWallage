@@ -4,9 +4,7 @@ I'm Martijn Wallage, a software developer and writer/philosopher.
 
 - I completed the Core Curriculum of <a href="https://42berlin.de">42 Berlin</a>.
 
-- I am an Advanced Student at 42 London. You can reach me at mwallage@student.42london.com.
-
-- I am working on an app for <a href="https://github.com/MartijnWallage/DanteMemorizer">memorizing Dante's Divine Comedy</a>.
+- I am an Advanced Student at Codam. You can reach me at mwallage@student.codam.nl.
 
 - I made this cv - <a href="https://martijnwallage.github.io">https://martijnwallage.github.io</a> - in HTML and CSS.
 
