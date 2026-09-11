@@ -77,11 +77,3 @@
   <a href="https://www.martijnwallage.nl/">personal website</a> ·
   <a href="https://martijnwallage.substack.com/">Substack</a>
 </p>
-
-<h2>Links</h2>
-
-<p>
-  <a href="https://www.linkedin.com/in/martijnwallage">LinkedIn</a> ·
-  <a href="https://www.martijnwallage.nl/">Website</a> ·
-  <a href="https://martijnwallage.github.io/">CV</a>
-</p>
