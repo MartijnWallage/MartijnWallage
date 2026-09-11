@@ -26,23 +26,23 @@
     — A Python language-learning app designed especially for inflected languages, with separate components for grammar, vocabulary, sentences and accentuation.
   <li>
     <a href="https://github.com/MartijnWallage/ft_transcendence"><strong>ft_transcendence</strong></a>
-    — Full-stack multiplayer Pong application developed in a team of 5
-    at 42Berlin, with Django, JavaScript, Three.js and blockchain integration.
+    — Full-stack multiplayer Pong application with Django, JavaScript, Three.js and blockchain integration. Developed in a team of 5
+    at 42Berlin.
   </li>
   <li>
     <a href="https://github.com/MartijnWallage/42_irc"><strong>ft_irc</strong></a>
     — IRC server implemented in C++, involving network programming,
-    concurrent clients and protocol handling.
+    concurrent clients and protocol handling. Developed in a team of 3 at 42Berlin.
   </li>
   <li>
     <a href="https://github.com/MartijnWallage/42_minishell"><strong>minishell</strong></a>
     — Unix shell implementation in C, including parsing, pipes, redirections,
-    environment expansion, subshells and signals.
+    environment expansion, subshells and signals. Developed in a team of 2 at 42Berlin.
   </li>
   <li>
     <a href="https://github.com/MartijnWallage/42_MiniRT"><strong>miniRT</strong></a>
     — Ray tracer in C implementing lighting, anti-aliasing and
-    multi-threading.
+    multi-threading. Developed in a team of 2 at 42Berlin.
   </li>
 </ul>
 
