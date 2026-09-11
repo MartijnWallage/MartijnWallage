@@ -43,7 +43,7 @@
   </li>
   <li>
     <a href="https://github.com/MartijnWallage/ready_set_bool"><strong>Ready, Set, Boole</strong></a>
-    — Logic project in Rust.
+    — Logic project in Python.
   </li>
 </ul>
 
