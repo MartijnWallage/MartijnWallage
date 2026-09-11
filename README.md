@@ -29,20 +29,21 @@ I'm Martijn Wallage, a software developer and writer/philosopher.
 
 <div align="center">
 
-<a href="https://github.com/MartijnWallage/42_libft">![42 Badge libft](badges/libftm.png)</a>
-<a href="https://github.com/MartijnWallage/42_get_next_line">![42 Badge getNextLine](badges/get_next_linem.png)</a>
-<a href="https://github.com/MartijnWallage/42_printf">![42 Badge printf](badges/ft_printfm.png)</a>
-![42 Badge born2beroot](badges/born2berootm.png)
-<a href="https://github.com/MartijnWallage/42_push_swap">![42 Badge push_swap](badges/push_swapm.png)</a>
-<a href="https://github.com/MartijnWallage/42_pipex">![42 Badge pipex](badges/pipexm.png)</a>
-<a href="https://github.com/MartijnWallage/42_FdF">![42 Badge FdF](badges/fdfm.png)</a>
-<a href="https://github.com/MartijnWallage/42_philosophers">![42 Badge Philosophers](badges/philosophersm.png)</a>
-<a href="https://github.com/MartijnWallage/42_minishell">![42 Badge minishell](badges/minishellm.png)</a>
-![42 Badge Netpractice](badges/netpracticem.png)
-<a href="https://github.com/MartijnWallage/42_MiniRT">![42 Badge miniRT](badges/minirtm.png)</a>
-<a href="https://github.com/MartijnWallage/42_cpp">![42 Badge cpp](badges/cppm.png)</a>
-<a href="https://github.com/MartijnWallage/42_irc">![42 Badge irc](badges/ft_ircm.png)</a>
-<a href="https://github.com/MartijnWallage/42_inception">![42 Badge inception](badges/inceptionm.png)</a>
-<a href="https://github.com/MartijnWallage/ft_transcendence">![42 Badge inception](badges/ft_transcendencem.png)</a>
+<a href="https://github.com/MartijnWallage/42_libft"><img src="badges/libftm.png" alt="42 Badge libft"></a>
+<a href="https://github.com/MartijnWallage/42_get_next_line"><img src="badges/get_next_linem.png" alt="42 Badge getNextLine"></a>
+<a href="https://github.com/MartijnWallage/42_printf"><img src="badges/ft_printfm.png" alt="42 Badge printf"></a>
+<img src="badges/born2berootm.png" alt="42 Badge born2beroot">
+<a href="https://github.com/MartijnWallage/42_push_swap"><img src="badges/push_swapm.png" alt="42 Badge push_swap"></a>
+<a href="https://github.com/MartijnWallage/42_pipex"><img src="badges/pipexm.png" alt="42 Badge pipex"></a>
+<a href="https://github.com/MartijnWallage/42_FdF"><img src="badges/fdfm.png" alt="42 Badge FdF"></a>
+<a href="https://github.com/MartijnWallage/42_philosophers"><img src="badges/philosophersm.png" alt="42 Badge Philosophers"></a>
+<a href="https://github.com/MartijnWallage/42_minishell"><img src="badges/minishellm.png" alt="42 Badge minishell"></a>
+<img src="badges/netpracticem.png" alt="42 Badge Netpractice">
+<a href="https://github.com/MartijnWallage/42_MiniRT"><img src="badges/minirtm.png" alt="42 Badge miniRT"></a>
+<a href="https://github.com/MartijnWallage/42_cpp"><img src="badges/cppm.png" alt="42 Badge cpp"></a>
+<a href="https://github.com/MartijnWallage/42_irc"><img src="badges/ft_ircm.png" alt="42 Badge irc"></a>
+<a href="https://github.com/MartijnWallage/42_inception"><img src="badges/inceptionm.png" alt="42 Badge inception"></a>
+<a href="https://github.com/MartijnWallage/ft_transcendence"><img src="badges/ft_transcendencem.png" alt="42 Badge transcendence"></a>
+
 
 </div>
