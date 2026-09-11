@@ -1,49 +1,87 @@
-<h2>Hi!</h2>
+<h1>Hi, I'm Martijn Wallage</h1>
 
-I'm Martijn Wallage, a software developer and writer/philosopher. 
-
-- I completed the Core Curriculum of <a href="https://42berlin.de">42 Berlin</a>.
-
-- Although I live in Oxford, I am an Advanced Student at Codam, Amsterdam. You can reach me at mwallage@student.codam.nl.
-
-- I am looking to collaborate on [Thales](https://github.com/MartijnWallage/Thales), a project to model all sorts of things (urban growth, immigration, economy, wars, climate change, natural disasters) using cellular automata.
- 
-- Aside from coding, I am a writer and philosopher. On my <a href="https://www.martijnwallage.nl">personal website</a> and on my <a href="https://martijnwallage.substack.com">Substack</a> you can read my literary prose and poems.
-
-<h3>Connect with me</h3>
 <p>
-<a href="https://linkedin.com/in/martijnwallage" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="martijnwallage" /></a>
+  Software engineer with a background in formal logic and philosophy.
+  I work primarily with C, C++, Rust and Python, with interests in
+  systems programming, simulation and software architecture.
 </p>
 
-<h3>Tech Stack</h3>
+<p>
+  I am currently an Advanced Student at
+  <a href="https://www.codam.nl/">Codam</a> in Amsterdam.
+  I previously completed the Core Curriculum at
+  <a href="https://42berlin.de/">42 Berlin</a>.
+</p>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-D34516?style=for-the-badge&logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<h2>Selected projects</h2>
 
-<h3>42 Projects</h3>
+<ul>
+  <li>
+    <a href="https://github.com/MartijnWallage/Thales"><strong>Thales</strong></a>
+    — Rust project exploring how cellular automata can be used to model
+    phenomena such as urban growth, migration, economies and climate.
+  </li>
+  <li>
+    <a href="https://github.com/MartijnWallage/ft_transcendence"><strong>ft_transcendence</strong></a>
+    — Full-stack multiplayer Pong application developed as a team project
+    at 42, with Django, JavaScript, Three.js and blockchain integration.
+  </li>
+  <li>
+    <a href="https://github.com/MartijnWallage/42_irc"><strong>ft_irc</strong></a>
+    — IRC server implemented in C++, involving network programming,
+    concurrent clients and protocol handling.
+  </li>
+  <li>
+    <a href="https://github.com/MartijnWallage/42_minishell"><strong>minishell</strong></a>
+    — Unix shell implementation in C, including parsing, pipes, redirections,
+    environment expansion, subshells and signals.
+  </li>
+  <li>
+    <a href="https://github.com/MartijnWallage/42_MiniRT"><strong>miniRT</strong></a>
+    — Ray tracer in C implementing lighting, anti-aliasing and
+    multi-threading.
+  </li>
+  <li>
+    <a href="https://github.com/MartijnWallage/ready_set_bool"><strong>Ready, Set, Boole</strong></a>
+    — Logic project in Rust.
+  </li>
+</ul>
 
-<div align="center">
+<h2>Technical interests</h2>
 
-<a href="https://github.com/MartijnWallage/42_libft"><img src="badges/libftm.png" alt="42 Badge libft"></a>
-<a href="https://github.com/MartijnWallage/42_get_next_line"><img src="badges/get_next_linem.png" alt="42 Badge getNextLine"></a>
-<a href="https://github.com/MartijnWallage/42_printf"><img src="badges/ft_printfm.png" alt="42 Badge printf"></a>
-<img src="badges/born2berootm.png" alt="42 Badge born2beroot">
-<a href="https://github.com/MartijnWallage/42_push_swap"><img src="badges/push_swapm.png" alt="42 Badge push_swap"></a>
-<a href="https://github.com/MartijnWallage/42_pipex"><img src="badges/pipexm.png" alt="42 Badge pipex"></a>
-<a href="https://github.com/MartijnWallage/42_FdF"><img src="badges/fdfm.png" alt="42 Badge FdF"></a>
-<a href="https://github.com/MartijnWallage/42_philosophers"><img src="badges/philosophersm.png" alt="42 Badge Philosophers"></a>
-<a href="https://github.com/MartijnWallage/42_minishell"><img src="badges/minishellm.png" alt="42 Badge minishell"></a>
-<img src="badges/netpracticem.png" alt="42 Badge Netpractice">
-<a href="https://github.com/MartijnWallage/42_MiniRT"><img src="badges/minirtm.png" alt="42 Badge miniRT"></a>
-<a href="https://github.com/MartijnWallage/42_cpp"><img src="badges/cppm.png" alt="42 Badge cpp"></a>
-<a href="https://github.com/MartijnWallage/42_irc"><img src="badges/ft_ircm.png" alt="42 Badge irc"></a>
-<a href="https://github.com/MartijnWallage/42_inception"><img src="badges/inceptionm.png" alt="42 Badge inception"></a>
-<a href="https://github.com/MartijnWallage/ft_transcendence"><img src="badges/ft_transcendencem.png" alt="42 Badge transcendence"></a>
+<p>
+  <strong>Languages:</strong>
+  C · C++ · Rust · Python · JavaScript
+</p>
 
+<p>
+  <strong>Systems:</strong>
+  Unix · Linux · processes · concurrency · networking · memory management
+</p>
 
-</div>
+<p>
+  <strong>Development:</strong>
+  Git · GitHub · Docker · REST APIs · full-stack web development
+</p>
+
+<h2>Writing & philosophy</h2>
+
+<p>
+  Before becoming a software engineer, I worked as a philosopher and
+  academic researcher. I have a PhD in Philosophy from King's College London,
+  specialising in logic and philosophy of language.
+</p>
+
+<p>
+  I also write literary prose and poetry:
+  <a href="https://www.martijnwallage.nl/">personal website</a> ·
+  <a href="https://martijnwallage.substack.com/">Substack</a>
+</p>
+
+<h2>Links</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/martijnwallage">LinkedIn</a> ·
+  <a href="https://www.martijnwallage.nl/">Website</a> ·
+  <a href="https://martijnwallage.github.io/">CV</a>
+</p>
