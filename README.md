@@ -6,8 +6,8 @@ I'm Martijn Wallage, a software developer and writer/philosopher.
 
 - Although I live in Oxford, I am an Advanced Student at Codam, Amsterdam. You can reach me at mwallage@student.codam.nl.
 
-- I made this cv - <a href="https://martijnwallage.github.io">https://martijnwallage.github.io</a> - in HTML and CSS.
-
+- I am looking to collaborate on a project to model all sorts of things (urban growth, immigration, economy, wars, climate change, natural disasters) using cellular automata. Right now, the project is in <a href="https:://github.com/MartijnWallage/Thales">this</a> rather primitive state.
+ 
 - Aside from coding, I am a writer and philosopher. On my <a href="https://www.martijnwallage.nl">personal website</a> and on my <a href="https://martijnwallage.substack.com">Substack</a> you can read my literary prose and poems.
 
 <h3>Connect with me</h3>
