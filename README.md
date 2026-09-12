@@ -2,8 +2,7 @@
 
 <p>
   Software engineer with a background in formal logic and philosophy.
-  I work primarily with C, C++, Rust and Python, with interests in
-  systems programming, simulation and software architecture.
+  I work primarily with C, C++, Rust and Python.
 </p>
 
 <p>
