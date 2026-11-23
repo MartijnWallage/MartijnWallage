@@ -65,9 +65,7 @@
 <h2>Writing & philosophy</h2>
 
 <p>
-  Before becoming a software engineer, I worked as a philosopher and
-  academic researcher. I have a PhD in Philosophy from King's College London,
-  specialising in logic and philosophy of language.
+  I worked as a philosopher at the University of Leipzig. I have a PhD in Philosophy from King's College London.
 </p>
 
 <p>
